@@ -144,13 +144,13 @@ const About = () => {
     >
       <Stack spacing={2} marginBottom={8}>
         <Heading color={`mode.${colorMode}.text`} display="flex">
-          Hi, I'm Ahmad{' '}
+          Hi, I'm Ned Ryerson{' '}
         </Heading>
         <Stack as="flex" flexDirection="row" alignItems="center">
           <Box>
             <Text color={`mode.${colorMode}.subtext`}>
               I am a Full Stack developer, an open source lover and a writer
-              from Pakistan
+              from Virginia
             </Text>
           </Box>
           <Box mb="3">
